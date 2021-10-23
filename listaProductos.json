@@ -1,0 +1,38 @@
+{
+    "1": {
+        "nombre": "Burn Original 500 ml",
+        "marca": "Burn",
+        "distribuidor": "The Coca-Cola Company",
+        "precio": "0.79"
+    },
+    "2": {
+        "nombre": "Coca-Cola Zero 330 ml",
+        "marca": "Coca-Cola",
+        "distribuidor": "The Coca-Cola Company",
+        "precio": "0.57"
+    },
+    "3": {
+        "nombre": "Fanta Zero 330 ml",
+        "marca": "Fanta",
+        "distribuidor": "The Coca-Cola Company",
+        "precio": "0.43"
+    },
+    "4": {
+        "nombre": "Pepsi Light 330 ml",
+        "marca": "Pepsi",
+        "distribuidor": "PepsiCo",
+        "precio": "0.45"
+    },
+    "5": {
+        "nombre": "Cola Cero 330 ml",
+        "marca": "Hacendado",
+        "distribuidor": "Refresco Iberia",
+        "precio": "0.26"
+    },
+    "6": {
+        "nombre": "Red Bull Sugarfree 250 ml",
+        "marca": "Red Bull",
+        "distribuidor": "Red Bull GmbH",
+        "precio": "1.15"
+    }
+}
